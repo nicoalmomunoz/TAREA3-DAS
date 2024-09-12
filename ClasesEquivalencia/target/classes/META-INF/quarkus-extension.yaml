@@ -1,0 +1,12 @@
+---
+metadata:
+  built-with-quarkus-core: "3.14.3"
+  requires-quarkus-core: "[3.14,)"
+  minimum-java-version: "17"
+  extension-dependencies:
+  - "io.quarkus:quarkus-core"
+  - "io.quarkiverse.groovy:quarkus-groovy"
+  - "io.quarkus:quarkus-arc"
+artifact: "io.quarkiverse.groovy:quarkus-groovy-junit5::jar:3.14.1"
+name: "Quarkus Groovy - JUnit 5 - Runtime"
+description: "Write the server code of your integration tests with JUnit in Groovy"
