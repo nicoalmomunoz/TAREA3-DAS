@@ -5,6 +5,7 @@ Nicolas Almonacid Muñoz
 
 
 1. Clases de Equivalencia
+
 Con base en las condiciones del problema, podemos definir las siguientes clases de equivalencia para determinar si una persona es un votante válido o no:
 
 1. Persona fallecida (DEAD): Una persona que no está viva no puede votar.
